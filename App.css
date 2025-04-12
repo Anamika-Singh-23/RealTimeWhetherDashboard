@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+.search-bar input {
+  padding: 0.5rem;
+  width: 200px;
+}
+.search-bar button {
+  padding: 0.5rem;
+}
+.weather-card {
+  margin-top: 1rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  display: inline-block;
+  border-radius: 10px;
+}
+.error {
+  color: red;
+}
